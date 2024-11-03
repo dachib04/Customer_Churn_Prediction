@@ -1,4 +1,4 @@
-from src.imports import pd, zipfile, pd, np
+from src.imports import zipfile, pd, np
 
 
 def load_and_extract_data(file_path):
