@@ -1,0 +1,14 @@
+pandas==1.5.0
+numpy==1.21.0
+matplotlib==3.6.1
+seaborn==0.12.0
+scikit-learn==1.1.2
+imbalanced-learn==0.9.1
+shap==0.41.0
+Requires Python 3.8 or higher
+
+1. pandas: For data manipulation (pd).
+2. numpy: Used for numerical operations (np).
+3. matplotlib and seaborn: For data visualization (plt and sns).
+4. scikit-learn: Includes machine learning models, metrics, and utilities (RandomForestClassifier, train_test_split, accuracy_score, etc.).
+5. imbalanced-learn: For SMOTE (SMOTE).
